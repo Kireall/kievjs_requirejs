@@ -12,9 +12,6 @@ require.config({
 
         'templates/index': 'templates/desktop/index',
         'templates/details': 'templates/desktop/details',
-        'templates/twitterWindow': 'templates/mobile/twitterWindow',
-
-        /*TODO: TEST IT*/
-        'templates/': 'templates/mobile/'
+        'templates/twitterWindow': 'templates/mobile/twitterWindow'
     }
 });

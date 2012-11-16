@@ -1,9 +1,9 @@
 /*global define: true, _: true, require: true, requirejs: true, $: true */
 
 require.config({
-    // Will load main.jsor each package
+    // Will load main.js for each package
     'packages': [
-        'egistration',
+        'registration',
         'pkg1',
         // But it is ugly
         {
